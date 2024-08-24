@@ -2,4 +2,4 @@ Eliza implements a simple therapist chatbot called "Eliza" that interacts with u
 
 Generating Plotting Data generates synthetic data to model the relationship between years of education and income, visualized using scatter plots. It demonstrates a positive linear correlation between the two variables, with varying levels of noise to illustrate how randomness impacts the clarity of the relationship. The project uses NumPy to generate the data and Matplotlib for plotting, showing how different noise scales affect the visibility of the linear trend.
 
-MinimaxCheckers is a user vs ai checkers game I designed, applying the minimax algorithm. 
+MinimaxCheckers is a simple Python-based checkers game. The game pits a user against an AI using the minimax algorithm with alpha-beta pruning. The program handles move validation, scoring, and basic game mechanics like capturing opponent pieces. The AI calculates the optimal moves by simulating different game states to maximize its advantage, while the user plays against the computer to be the first to reach 5 points. The program showcases AI-based decision-making in a classic board game setting.
