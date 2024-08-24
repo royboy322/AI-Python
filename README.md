@@ -9,3 +9,5 @@ Optimizing ML Algoithms is a python implementation of linear regression using gr
 Poker is a basic python poker game simulation where two players are dealt hands from a shuffled deck of cards. The total points of each hand are calculated, with face cards having a value of 10 and aces being worth 11 points. The game determines the winner based on the total points, and ties are possible.
 
 Relationships is a python program that checks the relationship between two lists, determining if one is a sublist, superlist, if they are equal, or if they are completely unequal. It includes helper functions to identify sublists within lists and provides straightforward results for a variety of list comparisons.
+
+String AI is a python program that uses a genetic algorithm to evolve a population of strings toward a target phrase. Through selection, crossover, and mutation, the program simulates natural evolution over generations to find the optimal match for the given string. It tracks the fitness of each individual and visualizes fitness progression over generations.
