@@ -4,5 +4,5 @@ Generating Plotting Data generates synthetic data to model the relationship betw
 
 MinimaxCheckers is a simple Python-based checkers game. The game pits a user against an AI using the minimax algorithm with alpha-beta pruning. The program handles move validation, scoring, and basic game mechanics like capturing opponent pieces. The AI calculates the optimal moves by simulating different game states to maximize its advantage, while the user plays against the computer to be the first to reach 5 points. The program showcases AI-based decision-making in a classic board game setting.
 
-Gradient Descent Linear Regression is a Python implementation of linear regression using gradient descent. The code explores different learning rates and iteration values to demonstrate their effect on model convergence and stability.
+Optimizing ML Algoithms is a Python implementation of linear regression using gradient descent. The code explores different learning rates and iteration values to demonstrate their effect on model convergence and stability.
 
