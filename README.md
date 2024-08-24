@@ -6,3 +6,4 @@ MinimaxCheckers is a simple Python-based checkers game. The game pits a user aga
 
 Optimizing ML Algoithms is a Python implementation of linear regression using gradient descent. The code explores different learning rates and iteration values to demonstrate their effect on model convergence and stability.
 
+Poker is a basic Python poker game simulation where two players are dealt hands from a shuffled deck of cards. The total points of each hand are calculated, with face cards having a value of 10 and aces being worth 11 points. The game determines the winner based on the total points, and ties are possible.
