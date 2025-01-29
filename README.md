@@ -1,3 +1,5 @@
+Various Python projects I completed for my Artificial Intelligence course at NEIU.
+
 <ins>**Eliza**</ins>: <br>
 Eliza implements a simple therapist chatbot called "Eliza" that interacts with users through basic text-based conversations. The chatbot recognizes user inputs related to feelings, relationships, and verbs, and provides appropriate responses. The program uses Python’s re library for regular expression matching and random for dynamic response generation. This project demonstrates basic natural language processing concepts like pattern matching and conditional dialogue generation.
 
